@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "jco.client",
+      "type": "com.geega.sapjco3.config.SapJcoClientProperties",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jco.client.ashost",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.client",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.lang",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.passwd",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.pool-name",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.sysnr",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    },
+    {
+      "name": "jco.client.user",
+      "type": "java.lang.String",
+      "sourceType": "com.geega.sapjco3.config.SapJcoClientProperties"
+    }
+  ],
+  "hints": []
+}
